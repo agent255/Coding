@@ -1,0 +1,2 @@
+int money;
+double accountBalance;
